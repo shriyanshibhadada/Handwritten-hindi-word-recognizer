@@ -16,7 +16,7 @@ The character set on which the model has been trained.
 (requirements.txt)
 The required dependencies to run the model are mentioned in requirements.txt file.
 
-## Sample images
+## Images
 This folder contains some sample images which the model was able to predict correctly.
 
 ## Data Processing
