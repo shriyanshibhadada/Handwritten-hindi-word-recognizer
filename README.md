@@ -1,4 +1,4 @@
-﻿# Handwritten-hindi-word-reconizer
+﻿# Handwritten-hindi-word-recognizer
 
 ## main.py
 It contains the function predict which takes the input as an RGB image and returns a list
